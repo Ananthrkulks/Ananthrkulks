@@ -18,18 +18,18 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **fastAPI**
+- 🌱 I’m currently learning fastAPI
 
 - 👨‍💻 All of my projects are available at [https://ananthrkulks.netlify.app/](https://ananthrkulks.netlify.app/)
 
-- 💬 Ask me about **- Animation and design
-- - Coding and AI concepts
-- - Creative workflows
-- - Blending tech with art**
+- 💬 Ask me about - 3D Animation and design
+                  - Coding and AI concepts
+                  - Creative workflows
+                  - Blending tech with art
 
-- 📫 How to reach me **ananthrkulks@gmail.com**
+- 📫 How to reach me ananthrkulks@gmail.com
 
-- ⚡ Fun fact **I run on caffeine, creativity, and code—sometimes in that order! When the coffee kicks in, the animations start flowing!**
+- ⚡ Fun fact I run on caffeine, creativity, and code—sometimes in that order! When the coffee kicks in, the animations start flowing!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
