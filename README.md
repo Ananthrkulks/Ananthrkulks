@@ -22,7 +22,10 @@
 
 - 👨‍💻 All of my projects are available at [https://ananthrkulks.netlify.app/](https://ananthrkulks.netlify.app/)
 
-- 💬 Ask me about **- Animation and design - Coding and AI concepts - Creative workflows - Blending tech with art**
+- 💬 Ask me about **- Animation and design
+- - Coding and AI concepts
+- - Creative workflows
+- - Blending tech with art**
 
 - 📫 How to reach me **ananthrkulks@gmail.com**
 
@@ -30,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@akkioxic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akkioxic1" height="30" width="40" /></a>
+<a href="https://twitter.com/@akkioxic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akkioxic1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ananth r kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananth r kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/_ananth.rk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ananth.rk_" height="30" width="40" /></a>
 <a href="https://dribbble.com/ananth kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ananth kulkarni" height="30" width="40" /></a>
