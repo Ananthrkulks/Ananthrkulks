@@ -22,10 +22,10 @@
 
 - 👨‍💻 All of my projects are available at [https://ananthrkulks.netlify.app/](https://ananthrkulks.netlify.app/)
 
-- 💬 Ask me about - 3D Animation and design
-                  - Coding and AI concepts
-                  - Creative workflows
-                  - Blending tech with art
+- 💬 Ask me about **- 3D Animation and design
+                    - Coding and AI concepts
+                    - Creative workflows
+                    - Blending tech with art**
 
 - 📫 How to reach me ananthrkulks@gmail.com
 
