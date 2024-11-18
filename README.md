@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/@akkioxic1" target="blank"><img src="https://img.shields.io/twitter/follow/@akkioxic1?logo=twitter&style=for-the-badge" alt="akkioxic1" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk2YW1tdzNwbWt4amkwZndpOGFmNHg5aDlqNjQ1emcxbzdrM2wxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvari080&label=Profile%20views&color=0e75b6&style=flat" alt="sharvari080" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvari080&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth R Kulks" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
