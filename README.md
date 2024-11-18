@@ -20,14 +20,14 @@
 
 - 🌱 I’m currently learning **fastAPI**
 
-- 👨‍💻 All of my projects are available at [https://ananthrkulks.netlify.app/]**(https://ananthrkulks.netlify.app/)**
+- 👨‍💻 All of my projects are available at **(https://ananthrkulks.netlify.app/)**
 
 - 💬 Ask me about **- 3D Animation and design
                     - Coding and AI concepts
                     - Creative workflows
                     - Blending tech with art**
 
-- 📫 How to reach me **ananthrkulks@gmail.com***
+- 📫 How to reach me **ananthrkulks@gmail.com**
 
 - ⚡ Fun fact I run on caffeine, creativity, and code—sometimes in that order! When the coffee kicks in, the animations start flowing!
 
