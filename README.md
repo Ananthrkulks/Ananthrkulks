@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">A passionate creator blending animation, design, and technology to bring ideas to life. Constantly exploring new frontiers, from crafting captivating visuals to unraveling complex concepts, driven by curiosity and a commitment to mastering every skill I pursue.</h3>
+<h3 align="center">**"A passionate creator blending animation, design, and technology to bring ideas to life, fueled by curiosity and a drive to innovate."**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthrkulks&label=Profile%20views&color=0e75b6&style=flat" alt="ananthrkulks" /> </p>
 
